@@ -18,7 +18,7 @@
     "src/*"
   ],
   "dependencies": {
-    "snarkjs": "git+https://github.com/staccDOTsol/snarkjs.git#869181cfaf7526fe8972073d31655493a04326d5",
+    "snarkjs": "git+https://github.com/koraykoska/tornado-snarkjs.git#2bf7a986e53af8a824e97f5c4e673bb2730d33e4",
     "circomlib": "git+https://github.com/koraykoska/circomlib.git#9c08accae9555a8878d2be27b3537dcb2116e9f9"
   },
   "devDependencies": {
